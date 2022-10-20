@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `for` statement?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `for` statement? I feel fairly confident.
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I had an unproductive struggle before joining the study hall, then things started to make sense.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? I still need practice with using conditionals and the loop. Unfortunately I'm still working full time during Mod 0 so I'm really struggling with fitting everything in. It will have to be on the weekend and in between Mod 1 when I quit my job.
+- What questions do you still have? How will you get the answers you need? Are there more short cuts with conditional statements.
